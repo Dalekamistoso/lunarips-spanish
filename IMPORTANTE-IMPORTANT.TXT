@@ -1,0 +1,2 @@
+Before modifying the files use text "windows-1252" charset before touching anything!!!
+Antes de modificar los archivos, utilice el juego de caracteres "windows-1252" antes de tocar nada!!

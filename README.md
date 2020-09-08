@@ -7,8 +7,8 @@ Lunar IPS ES es una traducción a español de Lunar IPS hecha por:
 Carlos Romero también conocido como Dalekamistoso/DrWh0.
 
 Si tienes alguna queja de la traducción, por favor no molestes a Fusoya, 
-yo arreglaré dichos falos y le enviaré los cambios pertinentes para que
- la actualice oficialmente.
+yo arreglaré los fallos y le enviaré los cambios pertinentes para que la
+actualice oficialmente.
 
 Puedes encontrarme en:
 
